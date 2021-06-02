@@ -1,0 +1,41 @@
+.App {
+  font-family: sans-serif;
+}
+
+.heading {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  margin: 25px 50px;
+}
+
+.board {
+  border: solid black;
+  height: 330px;
+  display: flex;
+  flex: 1;
+  width: 100%
+}
+
+.container {
+  width: 100%;
+  text-align: center;
+}
+
+.square {
+  background-color: purple;
+  border: solid yellow;
+  height: 20%;
+}
+
+.questions {
+  border: solid blue;
+  height: 65px;
+  width: 100%;
+}
+
+.modul {
+height:70px;
+width: 100%;
+background-color: red;
+}

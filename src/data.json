@@ -1,0 +1,133 @@
+{
+  "title": "Elevated Trivia",
+  "score": 0,
+  "reset": "Reset",
+  "sections": [
+    {
+      "name": "math",
+      "questions": [
+        {
+          "question": "What is 40% of 120?",
+          "choices": ["52", "13", "48", "36"],
+          "answer": 2,
+          "points": 100
+        },
+        {
+          "question": "What is largest angle of an equilateral triangle?(in degrees)",
+          "choices": ["30", "90", "180", "60"],
+          "answer": 3,
+          "points": 200
+        },
+        {
+          "question": "What is sin(30)?",
+          "choices": ["1.364", "-0.988", "3/4", "-1/2"],
+          "answer": 1,
+          "points": 300
+        },
+        {
+          "question": "What is the antiderivative of 49x^6?",
+          "choices": ["294x^5 + C", "(3x^8)/9 + C", "(7x^7)/7 + C", "7x^7 + C"],
+          "answer": 3,
+          "points": 400
+        }
+      ]
+    },
+    {
+      "name": "science",
+      "questions": [
+        {
+          "question": "What is the powerhouse of the cell?",
+          "choices": ["Mitochondria", "Lysome", "Ribosome", "Chloroplasm"],
+          "answer": 0,
+          "points": 100
+        },
+        {
+          "question": "What is the mathematical value of gravity",
+          "choices": ["10 km/h", "2.99 m/s", "4.5 cm/hr^2", "9.81 m/s^2"],
+          "answer": 3,
+          "points": 200
+        },
+        {
+          "question": "What happens if you step into a blackhole?(theory)",
+          "choices": [
+            "Travel to another dimension",
+            "Become invisible",
+            "Turn into a cat",
+            "Spaghetti time!"
+          ],
+          "answer": 3,
+          "points": 300
+        },
+        {
+          "question": "What is the mass of 5 moles of KOH?",
+          "choices": ["100 g", "280.5 g", "249.3 g", "400.8 g"],
+          "answer": 1,
+          "points": 400
+        }
+      ]
+    },
+    {
+      "name": "history",
+      "questions": [
+        {
+          "question": "Where did civilization begin?",
+          "choices": ["Mountain range", "Beach", "Meadow", "River valley"],
+          "answer": 3,
+          "points": 100
+        },
+        {
+          "question": "What year did WW1 end?",
+          "choices": ["1900", "1918", "1920", "1905"],
+          "answer": 1,
+          "points": 200
+        },
+        {
+          "question": "What was the original name of New York City?",
+          "choices": ["York", "New", "New Amsterdam", "Brooklyn"],
+          "answer": 2,
+          "points": 300
+        },
+        {
+          "question": "How many countries has Britain NOT invaded?",
+          "choices": ["13", "29", "40", "22"],
+          "answer": 3,
+          "points": 400
+        }
+      ]
+    },
+    {
+      "name": "art",
+      "questions": [
+        {
+          "question": "In which city is The Louvre art museum located?",
+          "choices": ["Paris", "Lyon", "Zagreb", "Valletta"],
+          "answer": 0,
+          "points": 100
+        },
+        {
+          "question": "Which famous painter cut off a part of his ear?",
+          "choices": ["Warhol", "Goya", "Van Gogh", "Renoir"],
+          "answer": 2,
+          "points": 200
+        },
+        {
+          "question": "What is unusual about Leonardo da Vinci’s famous painting, The Mona Lisa?",
+          "choices": [
+            "It looks like she's wearing a veil",
+            "She has no eyebrows",
+            "The background is off",
+            "It has been stolen before"
+          ],
+          "answer": 1,
+          "points": 300
+        },
+        {
+          "question": "The famous painting, “Birth of Venus” by Botticelli, features a goddess floating in the ocean on what?",
+          "choices": ["A mango", "A flamingo", "A seashell", "A boat"],
+          "answer": 2,
+          "points": 400
+        }
+      ]
+    }
+  ]
+}
